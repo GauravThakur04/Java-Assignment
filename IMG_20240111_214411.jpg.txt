@@ -1,0 +1,22 @@
+
+æ
+ASSIGNMENT - LAMBOA
+What is lambda esposon in Jaia 8?
+Cambda expression helps to do wile code dey reducing lines (laws thes).
+allows functional interface.
+Syntax
+())- C
+() ) ( 11 Body
+J
+α- Can you pass lambda expression to a method ? When? Yes, we can bass lambda opassion. of a method is accaption xinable, comparable or comparator.
+03 what is functional Interface in Janas?
+functional interface in Jale & means which chas only Only abstract method
+Or Benefit of lambda expression?
+ད་
+dess coding
+suffer functional interface
+Qs Is it mandatory for Ilimada e-posse. No have parameters?
+-
+No, it is not mandatory for a lambda expression to have parameters.
+= ( ) → S. o. pln (" No parameters");
+(uint aug) → S.0.pen ("with parameters");
